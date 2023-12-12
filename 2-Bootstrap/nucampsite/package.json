@@ -22,7 +22,7 @@
     "copyfiles": "^2.4.0",
     "imagemin-cli": "^5.1.0",
     "lite-server": "^2.5.4",
-    "node-sass": "^7.0.0",
+    "node-sass": "^9.0.0",
     "onchange": "^7.1.0",
     "parallelshell": "^3.0.2",
     "rimraf": "^3.0.2",
